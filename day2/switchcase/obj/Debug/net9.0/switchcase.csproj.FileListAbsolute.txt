@@ -1,0 +1,14 @@
+D:\wiprotraining\day2\switchcase\bin\Debug\net9.0\switchcase.exe
+D:\wiprotraining\day2\switchcase\bin\Debug\net9.0\switchcase.deps.json
+D:\wiprotraining\day2\switchcase\bin\Debug\net9.0\switchcase.runtimeconfig.json
+D:\wiprotraining\day2\switchcase\bin\Debug\net9.0\switchcase.dll
+D:\wiprotraining\day2\switchcase\bin\Debug\net9.0\switchcase.pdb
+D:\wiprotraining\day2\switchcase\obj\Debug\net9.0\switchcase.GeneratedMSBuildEditorConfig.editorconfig
+D:\wiprotraining\day2\switchcase\obj\Debug\net9.0\switchcase.AssemblyInfoInputs.cache
+D:\wiprotraining\day2\switchcase\obj\Debug\net9.0\switchcase.AssemblyInfo.cs
+D:\wiprotraining\day2\switchcase\obj\Debug\net9.0\switchcase.csproj.CoreCompileInputs.cache
+D:\wiprotraining\day2\switchcase\obj\Debug\net9.0\switchcase.dll
+D:\wiprotraining\day2\switchcase\obj\Debug\net9.0\refint\switchcase.dll
+D:\wiprotraining\day2\switchcase\obj\Debug\net9.0\switchcase.pdb
+D:\wiprotraining\day2\switchcase\obj\Debug\net9.0\switchcase.genruntimeconfig.cache
+D:\wiprotraining\day2\switchcase\obj\Debug\net9.0\ref\switchcase.dll

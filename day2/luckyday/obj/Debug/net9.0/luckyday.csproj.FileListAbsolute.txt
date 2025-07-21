@@ -1,0 +1,14 @@
+D:\wiprotraining\day2\luckyday\bin\Debug\net9.0\luckyday.exe
+D:\wiprotraining\day2\luckyday\bin\Debug\net9.0\luckyday.deps.json
+D:\wiprotraining\day2\luckyday\bin\Debug\net9.0\luckyday.runtimeconfig.json
+D:\wiprotraining\day2\luckyday\bin\Debug\net9.0\luckyday.dll
+D:\wiprotraining\day2\luckyday\bin\Debug\net9.0\luckyday.pdb
+D:\wiprotraining\day2\luckyday\obj\Debug\net9.0\luckyday.GeneratedMSBuildEditorConfig.editorconfig
+D:\wiprotraining\day2\luckyday\obj\Debug\net9.0\luckyday.AssemblyInfoInputs.cache
+D:\wiprotraining\day2\luckyday\obj\Debug\net9.0\luckyday.AssemblyInfo.cs
+D:\wiprotraining\day2\luckyday\obj\Debug\net9.0\luckyday.csproj.CoreCompileInputs.cache
+D:\wiprotraining\day2\luckyday\obj\Debug\net9.0\luckyday.dll
+D:\wiprotraining\day2\luckyday\obj\Debug\net9.0\refint\luckyday.dll
+D:\wiprotraining\day2\luckyday\obj\Debug\net9.0\luckyday.pdb
+D:\wiprotraining\day2\luckyday\obj\Debug\net9.0\luckyday.genruntimeconfig.cache
+D:\wiprotraining\day2\luckyday\obj\Debug\net9.0\ref\luckyday.dll

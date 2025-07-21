@@ -1,0 +1,14 @@
+D:\wiprotraining\day2\evenorodd\bin\Debug\net9.0\evenorodd.exe
+D:\wiprotraining\day2\evenorodd\bin\Debug\net9.0\evenorodd.deps.json
+D:\wiprotraining\day2\evenorodd\bin\Debug\net9.0\evenorodd.runtimeconfig.json
+D:\wiprotraining\day2\evenorodd\bin\Debug\net9.0\evenorodd.dll
+D:\wiprotraining\day2\evenorodd\bin\Debug\net9.0\evenorodd.pdb
+D:\wiprotraining\day2\evenorodd\obj\Debug\net9.0\evenorodd.GeneratedMSBuildEditorConfig.editorconfig
+D:\wiprotraining\day2\evenorodd\obj\Debug\net9.0\evenorodd.AssemblyInfoInputs.cache
+D:\wiprotraining\day2\evenorodd\obj\Debug\net9.0\evenorodd.AssemblyInfo.cs
+D:\wiprotraining\day2\evenorodd\obj\Debug\net9.0\evenorodd.csproj.CoreCompileInputs.cache
+D:\wiprotraining\day2\evenorodd\obj\Debug\net9.0\evenorodd.dll
+D:\wiprotraining\day2\evenorodd\obj\Debug\net9.0\refint\evenorodd.dll
+D:\wiprotraining\day2\evenorodd\obj\Debug\net9.0\evenorodd.pdb
+D:\wiprotraining\day2\evenorodd\obj\Debug\net9.0\evenorodd.genruntimeconfig.cache
+D:\wiprotraining\day2\evenorodd\obj\Debug\net9.0\ref\evenorodd.dll
