@@ -1,0 +1,14 @@
+D:\wiprotraining\day3\studentsdetailsusingloop\bin\Debug\net9.0\studentsdetailsusingloop.exe
+D:\wiprotraining\day3\studentsdetailsusingloop\bin\Debug\net9.0\studentsdetailsusingloop.deps.json
+D:\wiprotraining\day3\studentsdetailsusingloop\bin\Debug\net9.0\studentsdetailsusingloop.runtimeconfig.json
+D:\wiprotraining\day3\studentsdetailsusingloop\bin\Debug\net9.0\studentsdetailsusingloop.dll
+D:\wiprotraining\day3\studentsdetailsusingloop\bin\Debug\net9.0\studentsdetailsusingloop.pdb
+D:\wiprotraining\day3\studentsdetailsusingloop\obj\Debug\net9.0\studentsdetailsusingloop.GeneratedMSBuildEditorConfig.editorconfig
+D:\wiprotraining\day3\studentsdetailsusingloop\obj\Debug\net9.0\studentsdetailsusingloop.AssemblyInfoInputs.cache
+D:\wiprotraining\day3\studentsdetailsusingloop\obj\Debug\net9.0\studentsdetailsusingloop.AssemblyInfo.cs
+D:\wiprotraining\day3\studentsdetailsusingloop\obj\Debug\net9.0\studentsdetailsusingloop.csproj.CoreCompileInputs.cache
+D:\wiprotraining\day3\studentsdetailsusingloop\obj\Debug\net9.0\studentsdetailsusingloop.dll
+D:\wiprotraining\day3\studentsdetailsusingloop\obj\Debug\net9.0\refint\studentsdetailsusingloop.dll
+D:\wiprotraining\day3\studentsdetailsusingloop\obj\Debug\net9.0\studentsdetailsusingloop.pdb
+D:\wiprotraining\day3\studentsdetailsusingloop\obj\Debug\net9.0\studentsdetailsusingloop.genruntimeconfig.cache
+D:\wiprotraining\day3\studentsdetailsusingloop\obj\Debug\net9.0\ref\studentsdetailsusingloop.dll

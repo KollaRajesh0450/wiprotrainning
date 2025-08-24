@@ -1,0 +1,14 @@
+D:\wiprotraining\calculator\bin\Debug\net9.0\calculator.exe
+D:\wiprotraining\calculator\bin\Debug\net9.0\calculator.deps.json
+D:\wiprotraining\calculator\bin\Debug\net9.0\calculator.runtimeconfig.json
+D:\wiprotraining\calculator\bin\Debug\net9.0\calculator.dll
+D:\wiprotraining\calculator\bin\Debug\net9.0\calculator.pdb
+D:\wiprotraining\calculator\obj\Debug\net9.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\wiprotraining\calculator\obj\Debug\net9.0\calculator.AssemblyInfoInputs.cache
+D:\wiprotraining\calculator\obj\Debug\net9.0\calculator.AssemblyInfo.cs
+D:\wiprotraining\calculator\obj\Debug\net9.0\calculator.csproj.CoreCompileInputs.cache
+D:\wiprotraining\calculator\obj\Debug\net9.0\calculator.dll
+D:\wiprotraining\calculator\obj\Debug\net9.0\refint\calculator.dll
+D:\wiprotraining\calculator\obj\Debug\net9.0\calculator.pdb
+D:\wiprotraining\calculator\obj\Debug\net9.0\calculator.genruntimeconfig.cache
+D:\wiprotraining\calculator\obj\Debug\net9.0\ref\calculator.dll

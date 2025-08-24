@@ -1,0 +1,14 @@
+D:\wiprotraining\day2\rajesh\bin\Debug\net9.0\rajesh.exe
+D:\wiprotraining\day2\rajesh\bin\Debug\net9.0\rajesh.deps.json
+D:\wiprotraining\day2\rajesh\bin\Debug\net9.0\rajesh.runtimeconfig.json
+D:\wiprotraining\day2\rajesh\bin\Debug\net9.0\rajesh.dll
+D:\wiprotraining\day2\rajesh\bin\Debug\net9.0\rajesh.pdb
+D:\wiprotraining\day2\rajesh\obj\Debug\net9.0\rajesh.GeneratedMSBuildEditorConfig.editorconfig
+D:\wiprotraining\day2\rajesh\obj\Debug\net9.0\rajesh.AssemblyInfoInputs.cache
+D:\wiprotraining\day2\rajesh\obj\Debug\net9.0\rajesh.AssemblyInfo.cs
+D:\wiprotraining\day2\rajesh\obj\Debug\net9.0\rajesh.csproj.CoreCompileInputs.cache
+D:\wiprotraining\day2\rajesh\obj\Debug\net9.0\rajesh.dll
+D:\wiprotraining\day2\rajesh\obj\Debug\net9.0\refint\rajesh.dll
+D:\wiprotraining\day2\rajesh\obj\Debug\net9.0\rajesh.pdb
+D:\wiprotraining\day2\rajesh\obj\Debug\net9.0\rajesh.genruntimeconfig.cache
+D:\wiprotraining\day2\rajesh\obj\Debug\net9.0\ref\rajesh.dll
