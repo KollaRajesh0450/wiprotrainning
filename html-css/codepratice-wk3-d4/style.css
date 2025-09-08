@@ -1,0 +1,19 @@
+/* Hero Section Styling */
+.hero {
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
+                url('https://images.unsplash.com/photo-1509062522246-3755977927d7') no-repeat center/cover;
+}
+
+/* Table adjustments */
+.table th, .table td {
+    vertical-align: middle;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .hero {
+        height: auto;
+        padding: 50px 0;
+    }
+}
